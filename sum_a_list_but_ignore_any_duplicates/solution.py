@@ -10,3 +10,4 @@ def sum_no_duplicates(l):
             final_list.append(item)
     result = sum(final_list)
     return result
+
